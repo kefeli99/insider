@@ -1,0 +1,14 @@
+{
+    "events": [
+        {
+            "date": "2019-08-05 19:30:37",
+            "userId": "00172f1d9a71e9a8de0aa34288a6b19b",
+            "sessionId": "e8167c23f8ac2f9be979c32380e0fc2b7e94941e917d30d3376cc2005b163998",
+            "pageType": "productDetail",
+            "itemId": "83472aea4051c00d031b01ff42ef73fc",
+            "category": "[\"kadın çanta\",\"omuz askılı çanta\"]",
+            "productPrice": 622.0,
+            "oldProductPrice": 1220.0
+        }
+    ]
+}
