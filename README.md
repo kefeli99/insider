@@ -2,6 +2,10 @@
 
 ## Personalized Recommendation Model & Inference
 
+
+https://github.com/user-attachments/assets/f3410680-69f1-46b4-8d57-45fbd7b7f4b5
+
+
 ## Installation
 
 Install dependencies using `pip`:
